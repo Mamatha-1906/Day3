@@ -1,0 +1,5 @@
+print("hello world")
+print("good evening everyone")
+print("my name is mamatha")
+print("i am from bhupalpalli")
+print("im studying B tech 3rd year in vaagdevi engineering college")
