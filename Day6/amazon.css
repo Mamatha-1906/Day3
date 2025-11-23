@@ -1,0 +1,45 @@
+
+h1
+{
+   text-align: center;
+   
+}
+.container
+{
+    display:grid;
+    gap: 20px;
+    
+}
+.box {
+    width: 350px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 19px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+    margin: 20px auto;
+    box-sizing: border-box;
+
+}
+
+.box h4 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.grid-4 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px; 
+}
+
+.grid-4 img {
+    width: 80%;
+    height: 180px;
+    object-fit: fill;
+    border-radius: 6px;
+}
+
+.box p {
+    font-size: 16px;
+    margin-top: 15px;
+}

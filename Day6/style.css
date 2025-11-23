@@ -1,0 +1,30 @@
+
+        h1,p
+        {
+            color: rgb(23, 195, 195);
+            background-color: rgb(255, 217, 127);
+            font-size:large;
+            padding:20px;
+        }
+        .heading
+        {
+            background-color: aliceblue;
+            padding: 10px;
+            font-size: large;
+            font-style: oblique;
+            font-weight: 100;
+
+        }
+        .box1
+        {
+            width: 500px;
+            height: 100px;
+            color: aqua;
+            background-color: black;
+        }
+        .box2
+        {
+            width: 200px;
+            height: 100px;
+            background-color: blueviolet;
+        }
